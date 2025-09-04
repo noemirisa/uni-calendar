@@ -14,7 +14,6 @@ CODE_TO_NAME = {
     "30408": "Statistics II",
     "30407": "Math II",
     "30509": "Computer Programming",
-    "30409": "Macro",
 }
 
 # ---- 3) SZŰRÉS beállítás ----
