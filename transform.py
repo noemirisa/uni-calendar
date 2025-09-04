@@ -20,7 +20,7 @@ CODE_TO_NAME = {
 # Pontosan EGYIKET használd:
 # a) CSAK ezek a kódok maradjanak:
 INCLUDE_CODES = {
-   "30407", "30408" , "30398" , "30409" , "30509"
+   "30407", "30408" , "30398" , "30509"
 }
 
 
