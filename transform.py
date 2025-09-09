@@ -12,7 +12,6 @@ SOURCE_ICS_URL = "https://app-public.unibocconi.it:443/Calendars/Calendari/GetCa
 CODE_TO_NAME = {
     "30398": "Computer Science",
     "30408": "Statistics II",
-    "30407": "Math II",
     "30509": "Computer Programming",
 }
 
@@ -20,7 +19,7 @@ CODE_TO_NAME = {
 # Pontosan EGYIKET használd:
 # a) CSAK ezek a kódok maradjanak:
 INCLUDE_CODES = {
-   "30407", "30408" , "30398" , "30509"
+    "30408" , "30398" , "30509"
 }
 
 
